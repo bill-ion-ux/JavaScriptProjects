@@ -13,5 +13,5 @@ development. Each project is designed to be educational and fun, showcasing diff
 | [Drum-kit](JavaScriptDrum-Kit/main.html)           | Clickable drum that produces drum sounds while a crowd in a concert are watching you. Have fun! |
 | [Playing](Playing/main.html)                       | You can update CSS variables with 3 sliders adjusting spacing, blur or base color.              |
 | [Type Ahead](TypeAhead/main.html)                  | Type in any city in America and get the query numbers!                                          |
-
+| [Array Cardio Day 2](Array-Cardio-Day2/main.html)  | Play with powerful array methods like some, every, find, and findIndex while managing people and comments |                                          |
 and soon to be more!
